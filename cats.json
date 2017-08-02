@@ -26,7 +26,8 @@
 		},
 		{
 			"photo": "https://cdn.rawgit.com/samps8/mv-data/b0d5ff7f659be806db17b70e1b14d8a407714c06/images/20170716_122306.jpg",
-			"name": "Zephyr"
+			"name": "Zephyr",
+			"age": "7"
 		}
 	]
 }
